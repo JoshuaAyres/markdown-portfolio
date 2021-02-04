@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of mighty doge](https://static.wikia.nocookie.net/dogelore/images/9/97/Doge.jpg)
