@@ -1,0 +1,1 @@
+![Image of mighty doge](https://static.wikia.nocookie.net/dogelore/images/9/97/Doge.jpg)
