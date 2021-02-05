@@ -1,0 +1,1 @@
+Experience with using the **R** programming language, mainly implementing **Markov Chain Monte Carlo** algorithms for finding *posterior* distributions. Some familiarity with **Python**, in particular using the *numpy* and *pandas* packages, which I gained from doing online courses.
